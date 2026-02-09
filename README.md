@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Soth-dev!
 
 
-I'm a programmer passionate about building cool things with **Python**, **JavaScript** and **Rust**.
+I'm a programmer passionate about building cool things with **Python**, **JavaScript**, **Gleam** (beginner) and **Rust** (beginner).
 
 I'm new to GitHub and excited to collaborate, learn, and contribute to interesting projects.
 
